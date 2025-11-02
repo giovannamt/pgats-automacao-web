@@ -137,7 +137,7 @@ jobs:
 
 <h2>👩‍💻 Autor</h2>
 
-<p>Projeto desenvolvido por <strong>Giovanna Andrade</strong><br>
+<p>Projeto desenvolvido por <strong>Giovanna Maia Tavares</strong><br>
 💼 Avaliação <strong>PGATS-AUT-WEB</strong><br>
 📅 Novembro de 2025<br>
 🚀 Feito com ❤️ usando <strong>Cypress + Mochawesome + GitHub Actions</strong></p>
