@@ -32,8 +32,8 @@ O objetivo é demonstrar a implementação de testes E2E com <strong>Cypress</st
 
 <ol>
   <li><strong>Clone o repositório:</strong>
-    <pre><code>git clone https://github.com/seu-usuario/automation-exercise.git
-cd automation-exercise</code></pre>
+    <pre><code>git clone https://github.com/seu-usuario/pgats-automacao-web.git
+cd pgats-automacao-web</code></pre>
   </li>
   <li><strong>Instale as dependências:</strong>
     <pre><code>npm install</code></pre>
